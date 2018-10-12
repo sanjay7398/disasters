@@ -1,1 +1,1 @@
-# disasters
+We should develop a network which does not depend on cellular network or landline(bluetooth) and even synchronization of patient data and medical records to ensure proper care in the event of a natural disaster.
